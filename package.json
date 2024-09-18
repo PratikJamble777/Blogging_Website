@@ -1,0 +1,18 @@
+{
+  "name": "c23-blogs",
+  "version": "1.0.0",
+  "description": "## Overview This is a simple blogging website that allows users to write, edit, and publish blog posts. It provides an intuitive interface for content management and supports features like user authentication, post categorization, commenting, and search functionality.",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "c23",
+  "license": "ISC",
+  "dependencies": {
+    "express-fileupload": "^1.4.0",
+    "express.js": "^1.0.0",
+    "firebase": "^8.10.1",
+    "nodemon": "^3.1.5"
+  },
+  "keywords": []
+}
