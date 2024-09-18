@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Blogging Website
 
 ## Overview
@@ -32,3 +33,6 @@ This is a simple blogging website that allows users to write, edit, and publish 
 - MongoDB
 - A text editor (e.g., VSCode)
 
+=======
+# Blogging_Website
+>>>>>>> d3ee6638903555c2e5dac36c07dddaef23eba4f9
